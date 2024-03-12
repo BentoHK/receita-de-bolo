@@ -24,18 +24,21 @@ h2 {
 h3 {
     color: #1B1B1B;
     font-size: 17px;
+    margin-left: 25px;
 }
 
 ul {
     font-size: 16px;
     list-style-position: inside;
     line-height: 26px;
+    margin-left: 25px;
 }
 
 ol {
     font-size: 16px;
     list-style-position: inside;
     line-height: 26px;
+    margin-left: 25px;
 }
 
 footer {
@@ -58,5 +61,5 @@ img {
 
 p {
     font-size: 16px;
-
+    margin-left: 25px;
 }
